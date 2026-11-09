@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Firefox
+Comment=Open the web browser and sign in to your course
+Exec=firefox --new-window about:home
+Icon=firefox
+Terminal=false
+Categories=Network;WebBrowser;

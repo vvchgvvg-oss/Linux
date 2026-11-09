@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Downloads
+Comment=Files downloaded in this remote desktop are kept in the persistent home volume
+Exec=thunar /home/desktop/Downloads
+Icon=folder-download
+Terminal=false
+Categories=Utility;FileManager;

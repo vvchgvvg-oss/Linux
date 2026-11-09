@@ -1,0 +1,18 @@
+{
+  "policies": {
+    "Preferences": {
+      "layout.css.devPixelsPerPx": {
+        "Value": "1.40",
+        "Status": "default"
+      },
+      "browser.download.useDownloadDir": {
+        "Value": true,
+        "Status": "default"
+      },
+      "browser.download.dir": {
+        "Value": "/home/desktop/Downloads",
+        "Status": "default"
+      }
+    }
+  }
+}

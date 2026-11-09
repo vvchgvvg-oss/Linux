@@ -1,0 +1,1 @@
+The Dockerfile copies these launchers to /home/desktop/Desktop. They launch real Linux applications inside the remote desktop. The named Docker volume mounted at /home/desktop persists the Firefox profile and downloaded files between container restarts.
